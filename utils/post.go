@@ -1,7 +1,8 @@
-package main
+package utils
 
 import (
 	"fmt"
+	"github.com/kabaBZ/sakula_go/handle_error"
 	"io"
 	"net/http"
 	"strings"
