@@ -1,4 +1,4 @@
-module github.com/kabaBZ/sakula_go
+module github.com/kabaBZ/Sakula_Go
 
 go 1.20
 

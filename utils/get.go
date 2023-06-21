@@ -2,7 +2,7 @@ package utils
 
 import (
 	"fmt"
-	"github.com/kabaBZ/sakula_go/handle_error"
+	"github.com/kabaBZ/Sakula_Go/handle_error"
 	"io"
 	"net/http"
 )
