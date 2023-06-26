@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/kabaBZ/Sakula_Go/utils/struct"
+	"github.com/kabaBZ/Sakula_Go/src/utils"
 )
 
 func main() {
-	Struct()
-	// Get()
-	// Post()
+	utils.Struct()
+	utils.Get()
+	utils.Post()
 }
