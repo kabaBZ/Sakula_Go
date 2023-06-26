@@ -7,5 +7,5 @@ import (
 func main() {
 	utils.Struct()
 	utils.Get()
-	utils.Post()
+	utils.Post()s
 }
